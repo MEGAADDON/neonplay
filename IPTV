@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SD" tvg-logo="https://www.sintefpb.org.br/wp-content/uploads/2017/01/clock-icon.png" group-title="CANAIS | INFORMAÇOES",ATUALIZADO 02/11/2020
-https://www.sintefpb.org.br/wp-content/uploads/2017/01/clock-icon.png
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="Sbtsp.br" tvg-name="SBT SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS | ABERTOS",SBT SD
 https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="RECORD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="CANAIS | ABERTOS",RECORD HD
